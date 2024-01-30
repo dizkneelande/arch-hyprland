@@ -1,0 +1,58 @@
+
+#window {
+    background-color: #1a1b26;
+    color: #9aa5ce;
+    border: 2px solid #bb9af7;
+    border-radius: 8px;
+    opacity: 0.99;
+}
+ 
+#outer-box {
+    padding: 20px;
+}
+ 
+#input {
+    background-color: #24283b;
+    border: 0px solid #bb9af7;
+    padding: 8px 12px;
+    opacity: 0.8;
+}
+ 
+#scroll {
+    margin-top: 20px;
+}
+ 
+#inner-box {
+    opacity: 0.8;
+}
+ 
+#img {
+    padding-right: 8px;
+}
+ 
+#text {
+    color: #9aa5ce;
+}
+ 
+#text:selected {
+    color: #1a1b26;
+}
+ 
+#entry {
+    padding: 6px;
+}
+ 
+#entry:selected {
+    background-color: #7aa2f7;
+    color: #9aa5ce;
+}
+ 
+#unselected {
+}
+ 
+#selected {
+}
+ 
+#input, #entry:selected {
+    border-radius: 4px;
+}
